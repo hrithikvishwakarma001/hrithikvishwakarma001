@@ -48,3 +48,5 @@ Hi there! My name is Hrithik Vishwakarma and I am a full stack developer with ex
    
    
 Thank you for considering my profile. I am always looking for new opportunities to grow and learn as a developer. Please don't hesitate to reach out to me if you have any questions or if you think I might be a good fit for your project. 🤝
+
+Feel free to connect with me on LinkedIn or send me an email at hritik8008@gmail.com. I'm always open to discussing new opportunities and collaborations.
