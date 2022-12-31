@@ -29,7 +29,7 @@ Hi there! My name is Hrithik Vishwakarma and I am a full stack developer with ex
     
  
  
-## Projects [Clothingo-netlify](luxury-vacherin-56d222.netlify.app/)  
+## Clone Projects [Clothingo-netlify](luxury-vacherin-56d222.netlify.app/)  
  
     [Clothingo]: A web application built using HTML, CSS and JavaScript. [THE FINEST EDIT IN LUXURY FASHION Clothingo is the finest edit in luxury
                  fashion for women, men and kids. We have over 200 of the best international designers ]. 
