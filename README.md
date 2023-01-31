@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=header"/>
 
 ## Full Stack Developer 🔥
 
@@ -9,12 +10,16 @@
 >Experience with front-end frameworks such as React </br>
 >Experience with version control using Git </br>
 
+>![](https://img.shields.io/badge/-React.js-0a0c10?style=for-the-badge&logo=react&labelColor=0a0c10)&nbsp;
+![](https://img.shields.io/badge/-JavaScript-0a0c10?style=for-the-badge&logo=javascript&labelColor=0a0c10)&nbsp;
+![](https://img.shields.io/badge/-Node.JS-0a0c10?style=for-the-badge&logo=node.js&labelColor=0a0c10&textColor=0D1117)&nbsp;
+
 ## Projects 
-|S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |
-|:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|
-| 1 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| HTML, CSS, JavaScript, React and Chakra UI | `No`|  Individual| 5 |
-| 2 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` | Team Lead|   5 |
-| 3 |  [Tech-X](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript | `No` |   Individual | 5  |         
+|S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |Cloned by|
+|:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
+| 1 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| HTML, CSS, JavaScript, React and Chakra UI | `No`|  Individual| 5 |[Avis.com](https://www.avis.com/en/home)|
+| 2 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` | Team Lead|   5 |[Mytheresa.com](https://www.mytheresa.com/int_en/women.html)|
+| 3 |  [Tech-X](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript | `No` |   Individual | 5  |[GeeksBuying.com](https://www.geekbuying.com/)|        
 
 ## Socials
   
@@ -28,5 +33,6 @@ Thank you for considering my profile. I am always looking for new opportunities 
 
 Feel free to connect with me on LinkedIn or send me an email at hritik8008@gmail.com. I'm always open to discussing new opportunities and collaborations.
 
+![Hrithikvishwakarma001](https://github-readme-activity-graph.cyclic.app/graph?username=hrithikvishwakarma001&bg_color=0a0c10&color=ffffff&line=B0C4DE&point=ADD8E6&area=true&hide_border=true)
 
-```
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=footer"/>
