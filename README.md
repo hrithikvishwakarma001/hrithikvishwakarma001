@@ -17,9 +17,9 @@
 ## Projects 
 |S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |Clone of|
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-| 1 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| HTML, CSS, JavaScript, React and Chakra UI | `No`|  Individual| 5 |[Avis.com](https://www.avis.com/en/home)|
-| 2 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` | Team Lead|   5 |[Mytheresa.com](https://www.mytheresa.com/int_en/women.html)|
-| 3 |  [Tech-X](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript | `No` |   Individual | 5  |[GeeksBuying.com](https://www.geekbuying.com/)|        
+| 1 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| HTML, CSS, JavaScript, React and Chakra UI | `No`|  Solo| 5 |[Avis.com](https://www.avis.com/en/home)|
+| 2 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` |Lead|   5 |[Mytheresa.com](https://www.mytheresa.com/int_en/women.html)|
+| 3 |  [Tech-X](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript | `No` |   Solo | 5  |[GeeksBuying.com](https://www.geekbuying.com/)|        
 
 ## Socials
   
