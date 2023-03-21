@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&color=B0C4DE&height=120&section=header"/>
 
-## Full Stack Developer 🔥
+## Full Stack Developer 🚀 
 
 >Hi there! My name is Hrithik Vishwakarma and I am a full stack developer with expertise  in both front-end and back-end development.
 
-## Skills 🚀 
+## 🛠 Skills 
 
 >Proficient in HTML, CSS, and JavaScript for front-end development </br>
 >Experience with front-end frameworks such as React </br>
