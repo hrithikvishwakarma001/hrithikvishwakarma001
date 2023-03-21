@@ -25,7 +25,7 @@
   
    >[LinkedIn](https://www.linkedin.com/in/hrithik-vishwakarma-4857a8246/) </br>
    >[Twitter](https://twitter.com/hrithik8008) </br>
-   >[Portfolio](https://hrithikvishwakarma001.github.io/)
+   >[Portfolio](https://hrithikvishwakarma001.github.io)
    
  </br>
 
