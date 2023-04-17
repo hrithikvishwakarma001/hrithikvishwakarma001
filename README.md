@@ -17,9 +17,11 @@
 ## Projects 
 |S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |Clone of|
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
-| 1 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| JavaScript, React and Chakra UI | `No`|  Solo| 5 |[Avis.com](https://www.avis.com/en/home)|
-| 2 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` |Lead|   5 |[Mytheresa.com]()|
-| 3 |  [Tech-X](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript | `No` |   Solo | 5  |[GeeksBuying.com](https://www.geekbuying.com/)|        
+| 1 |  [Mykaa](https://mykaa.vercel.app/)| React, Redux and JavaScript | `Yes` |   Team member | 5  |[nykaa.com](https://www.nykaa.com/)|   
+| 2 |  [Deco-ninja](https://deco-ninja.vercel.app/)| TypeScript, JavaScript and React | `No` |   Solo | 5  |[dollartree.com](https://www.dollartree.com/)|   
+| 3 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| JavaScript, React and Chakra UI | `No`|  Solo| 5 |[Avis.com](https://www.avis.com/en/home)|
+| 4 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` |Team Lead|   5 |[Mytheresa.com]()|
+     
 
 ## Socials
 
