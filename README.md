@@ -20,7 +20,7 @@
 | 1 |  [Mykaa](https://mykaa.vercel.app/)| React, Redux and JavaScript | `Yes` |   Team member | 5  |[nykaa.com](https://www.nykaa.com/)|   
 | 2 |  [Deco-ninja](https://deco-ninja.vercel.app/)| TypeScript, JavaScript and React | `No` |   Solo | 5  |[dollartree.com](https://www.dollartree.com/)|   
 | 3 |  [RentoVento](https://rentovento-hrithikvishwakarma001.vercel.app/)| JavaScript, React and Chakra UI | `No`|  Solo| 5 |[Avis.com](https://www.avis.com/en/home)|
-| 4 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` |Team Lead|   5 |[Mytheresa.com]()|
+| 4 |  [Clothingo](https://luxury-vacherin-56d222.netlify.app/)| HTML, CSS and JavaScript| `Yes` |Team Lead|   5 |[Mytheresa.com](https://www.mytheresa.com/)|
      
 
 ## Socials
