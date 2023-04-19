@@ -6,7 +6,7 @@
 
 ## 🛠 Skills 
 
->Proficient in HTML, CSS, and JavaScript for front-end development </br>
+>Proficient in HTML, CSS, JavaScript and TypeScript for front-end development </br>
 >Experience with front-end frameworks such as React </br>
 >Experience with version control using Git </br>
 
