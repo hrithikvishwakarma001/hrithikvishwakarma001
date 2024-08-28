@@ -6,13 +6,42 @@
 
 ## 🛠 Skills 
 
->Proficient in HTML, CSS, JavaScript and TypeScript for front-end development </br>
->Experience with front-end frameworks such as React </br>
->Experience with version control using Git </br>
+### Languages
 
->![](https://img.shields.io/badge/-React.js-0a0c10?style=for-the-badge&logo=react&labelColor=0a0c10)&nbsp;
-![](https://img.shields.io/badge/-JavaScript-0a0c10?style=for-the-badge&logo=javascript&labelColor=0a0c10)&nbsp;
-![](https://img.shields.io/badge/-Node.JS-0a0c10?style=for-the-badge&logo=node.js&labelColor=0a0c10&textColor=0D1117)&nbsp;
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+_![javascript](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=0D75DE)
+
+
+### Back-End Development
+
+<p>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+   _<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+   _<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+   _<img src="https://img.shields.io/badge/Socket.Io-099B58?style=for-the-badge&logo=socketdotio&logoColor=white" alt="nestjs" />
+   _<img src="https://img.shields.io/badge/Django-113228?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+</p>
+
+### Front-End Development
+
+<p>
+    <img src="https://img.shields.io/badge/React.js-292929?style=for-the-badge&logo=react&logoColor=#20d9fe" alt="react" />
+    _<img src="https://img.shields.io/badge/Next.js-292929?style=for-the-badge&logo=nextdotjs&logoColor=#20d9fe" alt="next" />
+    _<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    _<img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=084E94" alt="typescript" />
+     _<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    _<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+</p>
+
+
+<h3 align="left">Tech Tools:</h3>
+<p align = "left">
+ <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mongodb-leaf.png" alt="mongo" width="50" height="50"/> 
+ <img src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/mysql-logo.png" alt="mysql" width="50" height="50"/>
+ <img src="https://github.com/reduxjs.png?size=40" alt="redux" width="50" height="50"/>
+ <img src="https://zod.dev/logo.svg" alt="zod" width="50" height="50"/>
+</p>
+<hr>
 
 ## Projects 
 |S.No| Project | Tech-Stacks |  Collaborative | Role| Span (Days) |Clone of|
@@ -24,10 +53,6 @@
      
 
 ## Socials
-
-<!--   >[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hrithikvishwakarma001.github.io/)
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-vishwakarma-4857a8246/)
-  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hrithik8008) -->
 
    >[LinkedIn](https://www.linkedin.com/in/hrithik-vishwakarma-4857a8246/) </br>
    >[Twitter](https://twitter.com/hrithik8008) </br>
